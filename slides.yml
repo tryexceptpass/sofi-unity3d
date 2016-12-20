@@ -1,0 +1,67 @@
+- slide:
+    title: Intro
+    display:
+        - Cristian Medina - @tryexceptpass
+
+- slide:
+    title: The UI topic
+    display:
+        - Why User Interfaces?
+
+
+- slide:
+    title: Definition
+    display:
+        - What is a User Interface?
+        - Wikipedia defines it as "The space in which human-computer interactions occur"
+
+
+- slide:
+    title: Common Interfaces - The Python Story
+    display:
+        - Common Interfaces - The Python Story
+        - CLI - docopt, click, terminaltables
+        - Native - wxwidgets, pygtk
+        - Non-Native - PyQT / pyside, tkinter, Kivy
+        - Web - Django, Flask, etc.
+        - Mobile - Kivy, Toga
+        - Toga - BeeWare Project
+        - Gaming - PyGame, PyOpenGL
+        - Chatbots - chatterbot, nltk / SpaCy (build your own)
+        - Virtual Reality and Augmented Reality - ?
+
+- slide:
+    title: Goals
+    display:
+        - Goals
+        - Experimenting and learning more about language features
+        - Research into available technology
+        - Reduce boilerplate code
+        - Stop reinventing the wheel!
+
+- slide:
+    title: The Tech Exists
+    display:
+        - How can we best leverage the technologies of today?
+        - Browsers
+        - Cross-Browser Widget Libraries - Bootstrap, Material, Foundation
+        - Asynchronous WebSockets - Asyncio, Autobahn
+        - Chromium Embedded Framework
+        - Widget and Component Distribution - PyPI
+        - Application Packaging and Distribution - PyInstaller
+        - Cross-Platform Game Engines - Unity3D, Unreal
+
+- slide:
+    title: What have I done
+    display:
+        - How far did I get?
+        - Sofi
+        - Asyncio WebSocket command / event protocol
+        - Widgets based on Bootstrap
+        - Runs with CEF for desktop application feel
+        - Unity3D front-end
+
+- slide:
+    title: Getting Ready for the future
+    display:
+        - Call to Action - What can you do now so that Python is ready for the future of User Interfaces?\n\nCristian Medina - @tryexceptpass\nSofi - github.com/tryexceptpass/sofi
