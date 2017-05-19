@@ -15,3 +15,6 @@ For more details on how it works, have a look at [Making 3D Interfaces for Pytho
 ## Execution
 1. Start the game world by running the executable you downloaded above or start it directly from Unity3D. This will wait for a websocket server at port 9000.
 2. Run the python code: `python server.py`. This will start the slide deck I used at PyCaribbean and start a twitter listener for #python which will spawn objects as tweets come in.
+
+## Disabling the slides
+If you'd like to just watch the tweets roll in, disabling the slides is easy enough, just comment or remove any lines that call `displayslide()`. Please note that you could easily repurpose this function for other things along with the `onkeyboard()` callback.
