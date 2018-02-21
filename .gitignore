@@ -1,3 +1,6 @@
+
+*.pyc
+__pycache__/
 engine/Library/ShaderCache
 engine/Library/shadercompiler*.log
 engine/Library/*.buildreport
