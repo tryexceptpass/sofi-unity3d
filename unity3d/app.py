@@ -67,4 +67,4 @@ class SofiUnity3d(Sofi):
             cmd['text'] = text
 
         # TODO: This is assuming 1 client!
-        self.clients[0].dispatch(cmd)
+        self.dispatch(cmd, self.clients[0])
