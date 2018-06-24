@@ -8,7 +8,7 @@ For more details on how it works, have a look at [Making 3D Interfaces for Pytho
   * If you have Unity3D already and want to run from there, use the project in the `engine` directory.
   * If you don't, you can download the built world from the links below:
     * [MacOS](https://s3.amazonaws.com/tryexceptpass/sofi3d.app.zip)
-    * [Windows](https://s3.amazonaws.com/tryexceptpass/sofi3d.exe)
+    * [Windows](https://s3.amazonaws.com/tryexceptpass/sofi3d.exe.zip)
     * [Linux](https://s3.amazonaws.com/tryexceptpass/sofi3d.x86.zip)
 * Update `server.py` with your twitter account credentials.
 
